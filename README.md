@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear Regression
 ## What is the project?
 This project is a lab that predicting profits by implementing linear regression with one variable. This project can help the restaurant franchises to choose the suitable city to get the higher profits.
 
